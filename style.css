@@ -1,0 +1,57 @@
+body {
+  background-color: #2182e2;
+  min-height: 3000px;
+  font-family: "Lexend Deca", sans-serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #2182e2;
+  color: rgb(250, 248, 248);
+  font-size: 2rem;
+}
+
+#projects {
+  background-color: #2182e2;
+}
+
+#about {
+  background-color: #ffffff;
+}
+
+#certificates {
+  background-color: #ffffff;
+}
+
+section h1 {
+  color: black;
+  font-size: 2.5rem;
+}
+
+section {
+  padding-top: 5rem;
+}
+/* Navbar */
+
+.nav-link.active {
+  color: black !important;
+  font-weight: 700;
+}
+
+/* end Navbar */
+
+/* CTA */
+.btn-custom1 {
+  background-color: black;
+  text-align: center;
+  color: #fff;
+  min-width: 150px;
+  height: 45px;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.btn-custom1 {
+  box-shadow: 0 0 5px rgba(255, 166, 0, 0.8);
+}
+/* End Hero */
